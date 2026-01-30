@@ -2248,7 +2248,7 @@ const files = [
 
                             function normalizeFileName(name) {
                                 if (name.includes('.') && name.lastIndexOf('.') > 0) return name;
-                                return name + '.htm l';
+                                return name + '.html';
                             }
 
                             const normalized = normalizeFileName(file);
