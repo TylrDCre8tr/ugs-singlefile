@@ -1,5 +1,5 @@
 let files = [
-    'cl1',
+    '1',
     'cl10bullets',
     'cl10minutestildawn',
     'cl10morebullets',
