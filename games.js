@@ -1591,6 +1591,7 @@ let files = [
     'clrollerballer',
     'clrollingsky',
     'clrollyvortex',
+    'clroleplaygame',
     'clrolypolymonster',
     'clrooftopsnipers',
     'clrooftopsnipers2',
